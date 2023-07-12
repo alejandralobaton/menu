@@ -1,0 +1,58 @@
+body{background-image:url(fondo31.jpg) ;
+
+}
+h1{color: rgb(16, 4, 4);
+font-style: italic;
+font-size: 50px; 
+text-align: center;
+
+}
+h2 {font-size: 48;
+font-style: italic;
+text-align: center
+
+}
+
+h3{font-size: 48;
+}
+
+h4{font-family: cursive;
+    font-style: italic;
+    text-align: center;
+}
+
+p{text-align: justify;
+    font-family: cursive;
+    font-style: italic;
+    
+}
+
+.destaque{
+    color:black;
+    border: 60px  blue;
+    background-color: aliceblue;
+
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+}
+
+table, th, td {
+    border: 0px solid black; 
+    
+    
+ }
+ 
+ td{text-align:justify; 
+    
+
+}
+
+th, td {
+    border-bottom: 8px solid #ddd;
+    height: 0px;
+    width: 650px ;
+}
